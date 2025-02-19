@@ -1,0 +1,6 @@
+json
+ollama
+numpy
+sklearn
+PyPDF2
+streamlit

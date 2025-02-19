@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/7024a9a3-f25c-4a3d-8631-2ce290c5e498/resourceGroups/ResilienceBOT_group/providers/Microsoft.Web/sites/ResilienceBOT",
+    "appService.deploySubpath": "."
+}
